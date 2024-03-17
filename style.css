@@ -318,6 +318,7 @@ section {
 
 #experience {
   position: relative;
+  margin-bottom: 400px; 
 }
 
 .experience-sub-title {
@@ -352,6 +353,8 @@ article {
 article .icon {
   cursor: default;
 }
+
+ 
 
 /* PROJECTS SECTION */
 
@@ -430,3 +433,4 @@ footer {
 footer p {
   text-align: center;
 }
+
